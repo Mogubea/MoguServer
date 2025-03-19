@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/IntelliJ GitHub Key" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/IntelliJ GitHub Key.pub" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/Flag.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/FlagBoolean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/FlagColour.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/FlagFloat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/FlagInt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/FlagMember.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/FlagString.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/Flags.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/claims/flags/MemberLevel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/commands/CommandClaim.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/commands/CommandDailyGift.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/commands/CommandException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/commands/CommandI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/commands/CommandManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/commands/MoguCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/commands/TabCompleter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/data/LoggingDatasource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/data/PrivateDatasource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/entities/CustomEntityListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/entities/CustomEntityManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/entities/CustomEntityType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/entities/IMoguEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/gui/MoguGui.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/items/VanillaItemAttributes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/profile/PlayerTeamManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/recipes/RecipesShaped.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/recipes/RecipesShapeless.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/recipes/RecipesStoneCutter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/regions/RegionBase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/regions/RegionDatasource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/regions/RegionManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/regions/RegionMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/regions/WorldRegion.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/regions/flags/FlagMemberBoolean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/statistics/DirtyDouble.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/statistics/DirtyFloat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/statistics/DirtyInteger.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/statistics/DirtyLong.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/statistics/DirtyVal.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/statistics/PlayerStatistics.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/statistics/SimpleStatType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/utils/ChatColor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/utils/Time.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/me/mogubea/utils/lore/Lore.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

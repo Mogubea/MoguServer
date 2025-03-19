@@ -1,0 +1,9 @@
+name: MoguServer
+version: 0.0.1
+api-version: 1.20
+main: me.mogubea.main.Main
+softdepend: [WorldEdit, dynmap, ProtocolLib]
+author: Mogubea
+website: http://beansbeans.net
+description: Mlem.
+commands:
